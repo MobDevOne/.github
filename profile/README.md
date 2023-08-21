@@ -1,7 +1,5 @@
 # Welcome to MobDevOne
 
-![Organization Logo](mobdevone.jpg) <!-- Replace with your organization's logo -->
-
 We are a passionate group of developers from Technische Berufschule 1 in Bochum Germany, working together under the banner of MobDevOne. Our goal is to learn, innovate, and create exciting projects that showcase our skills and creativity.
 
 ## About Us
