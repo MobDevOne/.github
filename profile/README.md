@@ -14,6 +14,8 @@ Here are some of the projects we're currently working on:
 
 Our latest project is the "Guess-The-Number" game, a fun and interactive number-guessing game designed to test your skills. Check out the [repository](https://github.com/MobDevOne/guess-the-number) for more details and feel free to contribute!
 
+---
+
 And here are some of our past projects:
 
 ### AirQuality
@@ -30,14 +32,6 @@ We welcome new members to join our organization and contribute to our projects. 
 4. Make your contributions or add new features.
 5. Commit and push your changes to your forked repository.
 6. Create a Pull Request to the original project repository.
-
-## Contact Us
-
-Connect with us on social media and stay updated with our latest projects and developments:
-
-- Follow us on [Twitter](https://twitter.com/MobDevOne)
-
-We're excited to have you as a part of our journey in technology and development!
 
 ## License
 
