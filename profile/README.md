@@ -20,7 +20,7 @@ And here are some of our past projects:
 
 ### AirQuality
 
-The Air Quality Data Processing project involves collecting air quality data from sensors, processing it, and providing users with valuable information about temperature, humidity, and particle sizes in the air. Check out the [repository](https://github.com/MobDevOne/AirQuality)
+The Air Quality Data Processing project involves collecting air quality data from sensors, processing it, and providing users with valuable information about temperature, humidity, and particle sizes in the air. Check out the [repository](https://github.com/MobDevOne/AirQuality) for more details and feel free to contribute as well!
 
 ## How to Get Involved
 
