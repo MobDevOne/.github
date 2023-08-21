@@ -4,7 +4,7 @@ We are a passionate group of developer apprentices who met from the Technische B
 
 ## About Us
 
-At MobDevOne, we believe in the power of collaboration and continuous learning. Our team consists of talented individuals with diverse backgrounds, all brought together by our shared love for coding and technology. Whether it's building games, crafting web applications, or solving real-world problems, we're always up for the challenge.
+At MobDevOne, we believe in the power of collaboration and continuous learning. Our team consists of talented individuals with diverse backgrounds, each apprentices from different companies, all brought together by our shared love for coding and technology. Whether it's building games, crafting web applications, or solving real-world problems, we're always up for the challenge.
 
 ## Projects
 
