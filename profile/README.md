@@ -1,6 +1,6 @@
 # Welcome to MobDevOne
 
-We are a passionate group of developer apprentices who met from the Technische Berufschule 1 vocational college in Bochum Germany, working together under the banner of MobDevOne. Our goal is to learn, innovate, and create exciting projects that showcase our skills and creativity.
+We are a passionate group of developer apprentices who met at our vocational college Technische Berufschule 1 in Bochum Germany, working together under the banner of MobDevOne. Our goal is to learn, innovate, and create exciting projects that showcase our skills and creativity.
 
 ## About Us
 
